@@ -1,0 +1,8 @@
+C:\Users\mbarboz\Desktop\DapperExample\DapperExample\bin\Debug\DapperExample.exe.config
+C:\Users\mbarboz\Desktop\DapperExample\DapperExample\bin\Debug\DapperExample.exe
+C:\Users\mbarboz\Desktop\DapperExample\DapperExample\bin\Debug\DapperExample.pdb
+C:\Users\mbarboz\Desktop\DapperExample\DapperExample\bin\Debug\Dapper.dll
+C:\Users\mbarboz\Desktop\DapperExample\DapperExample\bin\Debug\Dapper.xml
+C:\Users\mbarboz\Desktop\DapperExample\DapperExample\obj\Debug\DapperExample.csprojResolveAssemblyReference.cache
+C:\Users\mbarboz\Desktop\DapperExample\DapperExample\obj\Debug\DapperExample.exe
+C:\Users\mbarboz\Desktop\DapperExample\DapperExample\obj\Debug\DapperExample.pdb
