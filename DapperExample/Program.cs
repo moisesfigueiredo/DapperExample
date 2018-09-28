@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Data.SqlClient;
 using System.Linq;
@@ -28,6 +28,14 @@ namespace DapperExample
 
             Console.ReadKey();
 
+            /*
+             CREATE TABLE [dbo].[Usuario] (
+                    [Id]    INT          IDENTITY (1, 1) NOT NULL,
+                    [Nome]  VARCHAR (50) NULL,
+                    [Idade] INT          NULL,
+                    PRIMARY KEY CLUSTERED ([Id] ASC)
+                );
+             */
         }
     }
 }
